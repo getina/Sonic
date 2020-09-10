@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Boosts
+comment0.text=\r\n\ Template\ for\ the\ boost\ object\r\n\ \r\n\ @author\ Tina\ Ge\ \r\n\ @January\ 2019\ \r\n
+comment1.params=x\ y
+comment1.target=Boosts(int,\ int)
+comment2.params=dx
+comment2.target=void\ moveBoostX(int)
+comment3.params=dy
+comment3.target=void\ moveBoostY(int)
+comment4.params=
+comment4.target=int\ getConceptualX()
+comment4.text=\r\n\ Returns\ the\ boost's\ x\ value\ relative\ to\ the\ map\r\n
+comment5.params=
+comment5.target=int\ getConceptualY()
+comment5.text=\r\n\ Returns\ the\ boost's\ y\ value\ relative\ to\ the\ map\r\n
+numComments=6

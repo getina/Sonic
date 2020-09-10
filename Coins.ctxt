@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Coins
+comment0.text=\r\n\ Template\ for\ the\ coin\ object\r\n\ \r\n\ @author\ Tina\ Ge\ \r\n\ @January\ 2019\ \r\n
+comment1.params=
+comment1.target=Coins()
+comment2.params=dx
+comment2.target=void\ moveCoinX(int)
+comment3.params=dy
+comment3.target=void\ moveCoinY(int)
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Mario
+comment0.text=\r\n\ Prepares\ the\ world\ Sonic\ will\ be\ playing\ in\r\n\ \r\n\ @author\ Tina\ Ge\r\n\ @version\ January\ 2019\r\n
+comment1.params=
+comment1.target=Mario()
+comment1.text=\r\n\ Creates\ the\ world\ and\ Sonic\r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ Stores\ all\ interactive\ objects\ to\ the\ game\ but\ not\ necessarily\ adding\ it\ to\ the\ world\ yet\r\n
+numComments=3
